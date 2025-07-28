@@ -3,7 +3,4 @@ main = "src/index.js"
 compatibility_date = "2024-07-28"
 
 [triggers]
-crons = ["55 4,6,8,10,12,14,16,18 * * *"]
-
-[vars]
-HEROKU_APP_NAME = "tech-job-tracker"
+crons = ["54 4,6,8,10,12,14,16,18 * * *"]
