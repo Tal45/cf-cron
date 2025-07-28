@@ -1,4 +1,4 @@
-name = "heroku-cron"
+name = "run-jobscraper"
 main = "src/index.js"
 compatibility_date = "2024-07-28"
 
